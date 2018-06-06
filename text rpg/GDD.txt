@@ -1,16 +1,60 @@
 [0] Outline
-  [0] Outline
-  [1] Overview
-    [1.1] Theme/Genre
-    [1.2] Target Audience
-  [2] Gameplay
-    [2.1] Minimum Viable Product
-    [2.2] Text delivery
-    [2.3] Art
-    [2.4]
-  [3] Story
-  [4] Timeline
+    [0] Outline
+    [1] Overview
+        [1.1] Theme/Genre
+        [1.2] Target Audience
+    [2] Gameplay
+        [2.1] Minimum Viable Product
+        [2.2] General Gameplay
+        [2.3] Text delivery
+        [2.4] Art
+    [3] Story
+        [3.1] Act I
+        [3.2] Act II
+        [3.3] Act III
+        [3.3] Act IV
+    [4] Timeline
 
 [1] Overview
+    [1.1]
+    [1.2] Target Audience
+        Those who enjoy text-based RPGs (in the vein of Corruption of Champions [NSFW]) and semi-furry based media will likely enjoy this. The story is inspired by Paraphore's [NSFW/NSFL], though is not a direct lift or anthology.
+        
+        The game will contain swearing 
+        
 [2] Gameplay
-[3] Gameplay
+    [2.1] Minimum Viable Product
+        The smallest possible product is typing 1 to attack and 2 to defend.
+        
+    [2.2] General Gameplay
+        The player will use th/e console to type a number in order to interact with the world, such as exploring or attacking enemies.
+        
+        The player's character has skills for the player to level in. While their base stats all improve with leveling, the player will also be gifted a Skill Point to further improve a skill.
+         
+    [2.3] Text delivery
+        Text will scroll for the player's reading. While most text will be delivered immediately, some text may be delayed for story-telling purposes.
+        
+    [2.4] Art
+        While the game will be primarily text-based, ascii art will be used somewhat in the console version. In a potential GUI version, pixel art will support the main texts.
+        
+[3] Story
+    [3.1] Act I
+        The story begins with a quick character creation. Players will be able to customize things such as their character's species, gender, and small details of appearence (limited by the media constraints) 
+        
+        The player meets a guide character named Charley (their gender matches the player) who shows  the character the most basic of commands. They will stay with the character through the game. Charley is aware of themself being in a game, but has come to accept it, and is rather apathetic of it. Charley is an anthromorphic dog with a casual dress style.
+        
+        The player will likely go and explore the world, and as such, encounter enemies. The player can level up their player's skills (See Gameplay [2.2] for more leveling information). Some NPCs a player will encounter will not attack the player, but rather attempt to befriend them.
+        
+    [3.2] Act II
+    
+    [3.3] Act III
+    
+    [3.3] Act IV
+    
+[4] Timeline
+    [X] 06/06/2018 - Start project.
+    [ ] 06/06/2018 - Open GitHub repository.
+    [ ] 06/13/2018 - Finish GDD.
+    [ ] 06/18/2018 - Finish MVP.
+    [ ] 06/20/2018 - Finish basic exploration and small exposition parts.
+    [ ] 06//2018 - .
